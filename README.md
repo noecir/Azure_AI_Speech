@@ -28,7 +28,7 @@ Poderão serem analisados textos diversos. Peguei um modelo disponibilzado no pr
 ![image](https://github.com/noecir/Azure_AI_Speech/assets/161195278/4b38ac09-3b15-4b74-96ed-440b67352f46)
 
 
-É isso pessoal, qualquer dúvidas e sugestões "tamo aí".
+É isso pessoal, qualquer dúvida e sugestão "tamo aí".
 
 
 
